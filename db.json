@@ -1,16 +1,29 @@
 {
-  "posts":[
+  "streams": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "First Video for Linkedin has been created",
+      "description": "Tadaaaa!!!!!",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "Patch request",
+      "description": "this is patch request",
+      "id": 2
+    },
+    {
+      "title": "Me",
+      "description": "This has been 3 months I'm deeply depressed yes depression sometimes looks like this a happy face ",
+      "id": 3
+    },
+    {
+      "title": "Heuy",
+      "description": "Its working wow",
+      "id": 4
+    },
+    {
+      "title": "When error get resolved",
+      "description": "ye error ho gaya resolve finally",
+      "id": 5
     }
   ]
 }
